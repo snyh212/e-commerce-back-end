@@ -1,8 +1,8 @@
 const express = require('express');
 const routes = require('./routes');
-const sequelize = require('sequelize');
 const mysql = require ('mysql2');
 // import sequelize connection
+const sequelize = require('./config/connection')
 
 const connection = mysql.createConnection({
   host: "localhost",
