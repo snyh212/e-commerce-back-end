@@ -1,6 +1,6 @@
 # e-commerce-back-end
 
-[video tutorial]()
+[video tutorial](https://drive.google.com/file/d/1srtyxrXUY2_NQ664GPFpikXhSyvUOewN/view)
 
 ## Description
 E-commerce-back-end is a complete back-end for an e-commerce website, that gives the user access to categories, products and tags. Each has seeds to give them example keys and values, and and each are accessed with their respective routes. Once the database is made and seeds are seeded, the user can view with get routes, add with post routes, update with put routes and delete with delete routes.
